@@ -1,7 +1,8 @@
 {
-    "VERSION_NAME": "1.0.0",
-    "WEBSITE_URL": "https://t.me/lcmodss",
-    "PRIMARY_PACKAGE": "https://t.me/lcmodss",
-    "SECONDARY_PACKAGE": "https://t.me/lcmodss",
-    "TERTIARY_PACKAGE": "https://t.me/lcmodss"
+  "VERSION_NAME": "1.0.0",
+  "WEBSITE_URL": "https://t.me/lcmodss",
+  "PRIMARY_PACKAGE": "https://t.me/lcmodss",
+  "SECONDARY_PACKAGE": "https://t.me/lcmodss",
+  "TERTIARY_PACKAGE": "https://t.me/lcmodss",
+  "APK_URL": "COLOQUE_AQUI_O_LINK_DIRETO_DO_APK"
 }
